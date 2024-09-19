@@ -1,8 +1,8 @@
 # git-introducao
 
-##  comados basicos de GIT
+##  Comandos basicos de GIT
 
-- git clone <link-do-positorio> :este comado clona um repositorio 
+ git clone <link-do-positorio> :este comado clona um repositorio 
 
 git add <nome-do-repositorio> este comando adiciona arquivos no pacote de alteraçoes para serem comitados
 
